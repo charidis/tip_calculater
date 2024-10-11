@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="ezgif.com-video-to-gif (5).gif" width='700px' alt='Video Walkthrough'>
+<img src="ScreenRecording2024-10-11at3.02.49PM-ezgif.com-video-to-gif-converter.gif" width='700px' alt='Video Walkthrough'>
 
 GIF created with **your chosen GIF tool**
 
